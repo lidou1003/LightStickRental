@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightStickRental", "LightStickRental.csproj", "{B84A4FED-1F7B-47CB-ACF3-2FC18D9626FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84A4FED-1F7B-47CB-ACF3-2FC18D9626FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84A4FED-1F7B-47CB-ACF3-2FC18D9626FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84A4FED-1F7B-47CB-ACF3-2FC18D9626FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84A4FED-1F7B-47CB-ACF3-2FC18D9626FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3712A15-7EF2-484C-B7E9-DD6C63B3E307}
+	EndGlobalSection
+EndGlobal
